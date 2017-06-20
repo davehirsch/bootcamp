@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x. 2 dave dave   44 Jun 19 22:39 .
+drwxrwxr-x. 4 dave dave   34 Jun 19 22:35 ..
+-rwxrwxr-x. 1 dave dave 8624 Jun 19 22:39 fp
+-rw-rw-r--. 1 dave dave  585 Jun 19 22:38 freqparse.c
+-rw-rw-r--. 1 dave dave    0 Jun 19 22:39 text
